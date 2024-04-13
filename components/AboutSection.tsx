@@ -3,6 +3,8 @@ import React from "react";
 import Image from "next/image";
 
 const skills = [
+  { skill: "Android Studio" },
+  { skill: "Kotlin" },
   { skill: "HTML" },
   { skill: "CSS" },
   { skill: "JavaScript" },
