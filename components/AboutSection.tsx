@@ -61,7 +61,7 @@ const AboutSection = () => {
               <div>
                 <h2 className="font-bold text-xl">Bachelor of Economics, Business Administration and Marketing</h2>
                 <p className="font-bold">Tishreen University, Latakia, Syria</p>
-                <p>2015 - 2018</p>
+                <p>2017 - 2019</p>
               </div>
             </div>
             
