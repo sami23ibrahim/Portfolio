@@ -173,19 +173,19 @@ import { useState } from 'react';
 const ProjectDescription = () => {
   return (
     <div>
-      <p>Sami's List is an Android App designed with Kotlin tailored for a more organized shopping journey.</p>
+      <p>Sami&apos;s List is an Android App designed with Kotlin tailored for a more organized shopping journey.</p>
       <p>It transforms the shopping experience with a user-friendly interface that allows users to explore and locate products with ease.</p>
       <br></br>
       <p>The App allows users with tools for a streamlined shopping process, featuring a pre-visit checklist and in-store assistance, ensuring a quick, efficient, and enjoyable experience.</p>
       <br></br>
       <h1 className="text-1xl font-bold mb-6">Home Screen Features:</h1>
       <ul>
-        <li>'Smart Search' for instant product searches, aggregates sale items, and weekly flyers.</li>
+        <li>&apos;Smart Search&apos; for instant product searches, aggregates sale items, and weekly flyers.</li>
         <li>The category shortcuts, when clicked, display all items within that category, allowing users to easily add items to their list or view detailed information.</li>
       </ul>
       <br></br>
-      <h1 className="text-1xl font-bold mb-6">Checklist Screen:</h1>
-      <p>Includes a 'Dynamic Checklist' where the added items are displayed with their quantity and price. 'In-Store Navigation' aids in locating and checking off items, with automatic updates to the estimated total bill as items are found.</p>
+      <h1 className="text-1xl font-bold mb-6">Checklist Screen Features:</h1>
+      <p>Includes a &apos;Dynamic Checklist&apos; where the added items are displayed with their quantity and price. &apos;In-Store Navigation&apos; aids in locating and checking off items, with automatic updates to the estimated total bill as items are found.</p>
     </div>
   );
 };
