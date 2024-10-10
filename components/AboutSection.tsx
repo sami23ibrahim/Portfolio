@@ -11,6 +11,7 @@ const skills = [
   { skill: "TypeScript" },
   { skill: "Python" },
   { skill: "React" },
+  { skill: "React Native" },
   { skill: "Next.js" },
   { skill: "Tailwind CSS" },
   { skill: "Git" },
